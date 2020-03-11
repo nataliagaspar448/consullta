@@ -1,2 +1,2 @@
-# consullta
+# consulta
 arquivos para consulta
